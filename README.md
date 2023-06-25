@@ -1,4 +1,4 @@
-# API Data Sekolah Seluruh Indonesia v4.0
+# API Data Sekolah Negara Indonesia v4.0
 ### Assalamualaikum wr.wb
 ### API untuk Data Sekolah Seluruh Indonesia v4.0. Jenjang SD, SMP, SMA, SMK di seluruh Indonesia. 
 
